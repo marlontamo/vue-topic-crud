@@ -1,4 +1,4 @@
-# vue-task-tracker
+# vue-topic-lister
 
 ## Project setup
 ```
